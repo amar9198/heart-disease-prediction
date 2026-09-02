@@ -10,6 +10,10 @@ The project uses a **K-Nearest Neighbors (KNN)** machine learning model and prov
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-prediction-lunhkvazqw86qfirwrwwrb.streamlit.app/)
 
+## 💻 GitHub Repository
+
+ [View Source Code](https://github.com/amar9198/heart-disease-prediction)
+
 ---
 
 ## 📌 About the Project
